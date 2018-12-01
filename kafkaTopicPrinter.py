@@ -4,7 +4,6 @@
             Made the File to learn kafka
         Vital non standard imports: pykafka
         Goals:
-            Identify a Vertical and Horizontal Scan
             Uses Kafka topics as input
             Outputs to std (and eventually kafka)
             Make a clean readable document
